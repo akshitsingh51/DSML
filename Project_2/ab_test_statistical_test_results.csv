@@ -1,0 +1,5 @@
+Test,p-value,Significant at alpha = 0.05
+Welch's t-test,0.18988493791578315,False
+Chi-square test,0.19182228096235662,False
+ANOVA: countries,0.2008338102216092,False
+ANOVA: country × strategy,0.19708747683579858,False
